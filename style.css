@@ -1,0 +1,16 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+  margin: auto;
+}
+
+.header
+{
+  color:rgb(8, 186, 206);
+  font-size: 50px;
+  text-align: center;
+  line-height: 200px;
+}
