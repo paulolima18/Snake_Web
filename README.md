@@ -1,2 +1,5 @@
 # Snake_Web
-Web snake game
+
+### Getting Started
+
+- Simply open the html page to try
